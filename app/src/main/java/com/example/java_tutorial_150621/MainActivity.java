@@ -18,6 +18,7 @@ import com.example.java_tutorial_150621.databinding.ActivityMainBinding;
 import android.view.Menu;
 import android.view.MenuItem;
 
+
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration appBarConfiguration;
